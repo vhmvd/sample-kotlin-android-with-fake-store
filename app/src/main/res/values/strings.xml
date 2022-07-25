@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="product_image">Product Image</string>
+    <string name="product_categories">Categories</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_image_view">Product Image</string>
+    <string name="cart_items">Cart items</string>
+    <string name="added_items_in_the_cart">Added items in the cart</string>
+    <string name="sort">SORT</string>
+    <string name="filter">FILTER</string>
+    <string name="sort_by_price">Sort by price</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="_0">0</string>
+    <string name="total">Total:</string>
+    <string name="checkout">CHECKOUT</string>
+</resources>

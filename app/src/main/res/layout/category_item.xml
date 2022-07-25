@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="category"
+            type="String" />
+    </data>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_category_name"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="@{category.toUpperCase()}"
+        android:textSize="20sp"
+        tools:text="Test"
+        android:fontFamily="@font/architects_daughter"
+        android:textAppearance="?attr/textAppearanceListItem" />
+</layout>
