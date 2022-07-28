@@ -19,3 +19,5 @@ A sample E-commerce project with `kotlin` for android using [FakeStoreAPI](https
 - Retrofit
 
 - Parcelize
+
+- Fragments
